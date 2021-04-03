@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nikhilpereira1793
+- I am working a software engineer with Ideacrest Solutions. 
+- 👀 I’m interested in becoming a fullstack developer, open source software and meeting new people.
+- 🌱 I’m currently learning Typescript
+- I Also like photography and art. You can find some of my work here : https://www.instagram.com/nikipentium/
+- You can reach me on nikhil.pereira.1793@gmail.com
